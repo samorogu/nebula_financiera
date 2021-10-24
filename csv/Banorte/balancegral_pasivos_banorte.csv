@@ -1,0 +1,59 @@
+trimester_date,bank_name,table_name,GFNorte – Balance General,T_0_feature_value,T_1_feature_value,T_2_feature_value,T_3_feature_value,T_4_feature_value
+2021T2,Banorte,Balance General Pasivos,Depósitos exigibilidad inmediata,"529,030","541,002","520,283","496,641","469,861"
+2021T2,Banorte,Balance General Pasivos,Depósitos a plazo-Del Público en General,"243,038","246,883","252,271","251,418","265,100"
+2021T2,Banorte,Balance General Pasivos,Depósitos a plazo-Mercado de Dinero,"3,364","8,069","14,248","26,741","28,433"
+2021T2,Banorte,Balance General Pasivos,Cuenta global de captación sin movimientos,"2,744","2,639","2,585","2,489","2,368"
+2021T2,Banorte,Balance General Pasivos,Títulos de crédito emitidos,"31,907","31,937","32,325","35,815","35,386"
+2021T2,Banorte,Balance General Pasivos,Captación de Recursos,"810,082","830,531","821,712","813,104","801,148"
+2021T2,Banorte,Balance General Pasivos,De exigibilidad inmediata,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,De corto plazo,"19,531","20,054","22,499","22,185","47,365"
+2021T2,Banorte,Balance General Pasivos,De largo plazo,"14,223","13,962","13,522","13,223","14,452"
+2021T2,Banorte,Balance General Pasivos,Préstam os de Bancos y  otros,"33,754","34,016","36,021","35,408","61,817"
+2021T2,Banorte,Balance General Pasivos,Reservas Técnicas,"204,291","200,479","187,846","183,866","179,930"
+2021T2,Banorte,Balance General Pasivos,Valores  asignados por liquidar,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Acreedores por reporto,"382,616","371,414","353,094","352,628","353,211"
+2021T2,Banorte,Balance General Pasivos,Préstamos de Valores,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Reportos (saldo acreedor),55,19,13,2,8
+2021T2,Banorte,Balance General Pasivos,Préstamos de valores,22,13,8,0,0
+2021T2,Banorte,Balance General Pasivos,Derivados,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Otros colaterales vendidos,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Total de Colaterales vendidos o dados en,77,31,21,2,8
+2021T2,Banorte,Balance General Pasivos,Con fines de negociación,"20,011","24,508","44,097","50,121","58,754"
+2021T2,Banorte,Balance General Pasivos,Con fines de cobertura,"5,623","5,566","4,990","7,189","7,682"
+2021T2,Banorte,Balance General Pasivos,Operaciones con valores y derivados,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Derivados,"25,634","30,073","49,087","57,310","66,436"
+2021T2,Banorte,Balance General Pasivos,Total de Op. con Valores y Derivados,"408,328","401,518","402,202","409,939","419,655"
+2021T2,Banorte,Balance General Pasivos,Ajustes de valuación por cobertura de pasivos,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Obligaciones en operaciones de bursatilización,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Cuentas por pagar a Reaseguradores y,"2,790","3,145","2,269","2,918","3,159"
+2021T2,Banorte,Balance General Pasivos,Reafianzadores (Neto),0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Impuestos a la Utilidad por pagar,"1,660","1,895","4,365","3,521","2,718"
+2021T2,Banorte,Balance General Pasivos,Participación de los trabajadores en la utili.,297,187,538,407,280
+2021T2,Banorte,Balance General Pasivos,Aport. para futuros aumentos de capital,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Acreedores por liquidación de operaciones,"8,282","4,020","4,892","11,182","4,621"
+2021T2,Banorte,Balance General Pasivos,Acreedores por cuentas de margen,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Acreedores Diver. y otras ctas. p/pagar,"42,812","43,030","42,775","50,021","44,126"
+2021T2,Banorte,Balance General Pasivos,Otras cuentas por  pagar,"53,051","49,132","52,570","65,131","51,745"
+2021T2,Banorte,Balance General Pasivos,Obligaciones subordinadas en circulación,"57,243","58,759","57,152","66,241","57,321"
+2021T2,Banorte,Balance General Pasivos,Impuestos diferidos  (Neto),"2,242","1,139","1,618",897,0
+2021T2,Banorte,Balance General Pasivos,Créditos diferidos y Cobros Anticipados,"1,260","1,346","1,411",430,462
+2021T2,Banorte,Balance General Pasivos,TOTAL PASIVOS,"1,573,041","1,580,066","1,562,801","1,577,935","1,575,237"
+2021T2,Banorte,Balance General Pasivos,Capital Social,"14,936","14,936","14,919","14,901","14,901"
+2021T2,Banorte,Balance General Pasivos,Aport. para futuros aumentos de capital pendientes,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Prima en venta de acciones,"48,283","47,863","48,269","48,509","48,316"
+2021T2,Banorte,Balance General Pasivos,Obligaciones subordinadas en circulación,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Capital contribuido,"63,219","62,799","63,188","63,410","63,217"
+2021T2,Banorte,Balance General Pasivos,Reservas de capital,"8,415","9,719","9,215","8,753","8,746"
+2021T2,Banorte,Balance General Pasivos,Resultado de ejercicios anteriores,"139,558","148,359","118,773","119,734","120,910"
+2021T2,Banorte,Balance General Pasivos,Res. por valuación de títulos disponibles para la,"2,615","2,199","3,801","1,771",574
+2021T2,Banorte,Balance General Pasivos,Res. por valuación de instrumentos de cobertura de,"(2,451)","(2,214)",(887),"(1,677)","(1,398)"
+2021T2,Banorte,Balance General Pasivos,Resultado en la valuación de la reserva de riesgo en,(103),(110),(231),(190),(184)
+2021T2,Banorte,Balance General Pasivos,Efecto acumulado por conversión,132,166,134,269,326
+2021T2,Banorte,Balance General Pasivos,Remediciones por beneficios definidos a los,"(2,199)","(2,229)","(2,259)","(1,960)","(1,927)"
+2021T2,Banorte,Balance General Pasivos,Exceso (insuf.) en la actualiz. del Cap. Cont.,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Ajustes por obligaciones laborales al retiro,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Resultado neto,"17,112","8,544","30,508","24,542","15,636"
+2021T2,Banorte,Balance General Pasivos,Capital Ganado,"163,079","164,434","159,053","151,242","142,684"
+2021T2,Banorte,Balance General Pasivos,Participación no controladora,"3,025","2,908","2,862","2,719","2,443"
+2021T2,Banorte,Balance General Pasivos,Total Capital Contable,"229,322","230,142","225,103","217,371","208,344"
+2021T2,Banorte,Balance General Pasivos,TOTAL PASIVOS Y CAPITAL,"1,802,363","1,810,207","1,787,904","1,795,306","1,783,581"

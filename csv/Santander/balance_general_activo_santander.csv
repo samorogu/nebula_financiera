@@ -1,0 +1,43 @@
+bank_name,table_name,trimester_date,T_0_feature_value,T_1_feature_value,T_2_feature_value,T_3_feature_value,T_4_feature_value,short_description
+Santander,Balance General Activo,2021T2,113843,97483,94802,83502,85658,Disponibilidades
+Santander,Balance General Activo,2021T2,5209,4017,4122,3876,4638,Cuentas de margen
+Santander,Balance General Activo,2021T2,458685,558857,575415,552369,540938,Inversiones en valores
+Santander,Balance General Activo,2021T2,122957,204194,208089,173679,175739,Titulos para negociar
+Santander,Balance General Activo,2021T2,324353,343332,356039,367422,353978,Titulos disponibles para la venta
+Santander,Balance General Activo,2021T2,11375,11331,11287,11268,11221,Titulos conservados a vencimiento
+Santander,Balance General Activo,2021T2,39505,47713,62294,21813,36848,Deudores por reporto
+Santander,Balance General Activo,2021T2,200890,228247,304687,324984,385504,Derivados
+Santander,Balance General Activo,2021T2,193024,218097,296381,315071,376412,Con fines de negociación
+Santander,Balance General Activo,2021T2,7866,10150,8306,9913,9092,Con fines de cobertura
+Santander,Balance General Activo,2021T2,123,167,281,371,421,Ajustes de valuacion por cobertura de activos financieros
+Santander,Balance General Activo,2021T2,405407,416942,407941,451752,472748,Creditos comerciales
+Santander,Balance General Activo,2021T2,313657,318773,324825,360463,384891,Actividad empresarial o comercial
+Santander,Balance General Activo,2021T2,9943,10549,10082,11020,13083,Entidades financieras
+Santander,Balance General Activo,2021T2,81807,87620,73034,80269,74774,Entidades gubernamentales
+Santander,Balance General Activo,2021T2,110756,107758,108173,110421,108292,Creditos de consumo
+Santander,Balance General Activo,2021T2,173759,168529,165015,157765,151335,Creditos a la vivienda
+Santander,Balance General Activo,2021T2,163425,157642,153753,145627,138919,Media y residencial
+Santander,Balance General Activo,2021T2,5,6,6,8,24,De interes social
+Santander,Balance General Activo,2021T2,10329,10881,11256,12130,12392,Creditos adquiridos al Infonavit o el Fovissste
+Santander,Balance General Activo,2021T2,689922,693229,681129,719938,732375,Total cartera de credito vigente
+Santander,Balance General Activo,2021T2,6673,6503,6245,5783,6700,Creditos comerciales
+Santander,Balance General Activo,2021T2,6673,6503,6245,5781,6698,Actividad empresarial o comercial
+Santander,Balance General Activo,2021T2,0,0,0,2,2,Entidades financieras 2
+Santander,Balance General Activo,2021T2,4835,5536,7539,2637,4700,Creditos de consumo
+Santander,Balance General Activo,2021T2,8893,8721,7856,6972,7444,Creditos a la vivienda
+Santander,Balance General Activo,2021T2,7119,6805,6079,5516,5864,Media y residencial
+Santander,Balance General Activo,2021T2,8,9,10,18,5,De interés social
+Santander,Balance General Activo,2021T2,1766,1907,1767,1438,1575,Créditos adquiridos al Infonavit o el Fovissste
+Santander,Balance General Activo,2021T2,20401,20760,21640,15392,18844,Total cartera de crédito vencida
+Santander,Balance General Activo,2021T2,710323,713989,702769,735330,751219,Total cartera de crédito
+Santander,Balance General Activo,2021T2,24152,24937,25291,25850,26157,Estimacion preventiva para riesgos crediticios
+Santander,Balance General Activo,2021T2,686171,689052,677478,709480,725062,Cartera de crédito neto
+Santander,Balance General Activo,2021T2,0,151,160,158,155,Beneficios por recibir en operaciones de bursatilización
+Santander,Balance General Activo,2021T2,84993,78686,93628,119989,107968,Otras cuentas por cobrar neto
+Santander,Balance General Activo,2021T2,106,92,135,119,136,Bienes adjudicados neto
+Santander,Balance General Activo,2021T2,11868,12045,12376,10746,10185,Propiedades mobiliario y equipo neto
+Santander,Balance General Activo,2021T2,2182,1168,1091,1012,913,Inversiones permanentes
+Santander,Balance General Activo,2021T2,19432,19675,19225,20766,21560,Impuestos y PTU diferidos (neto)
+Santander,Balance General Activo,2021T2,11333,10903,10477,9459,9324,Cargos diferidos pagos anticipados e intangibles
+Santander,Balance General Activo,2021T2,44,42,42,40,40,Otros activos
+Santander,Balance General Activo,2021T2,1634384,1748298,1856213,1858684,1929350,Total activo

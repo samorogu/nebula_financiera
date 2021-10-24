@@ -1,0 +1,42 @@
+bank_name,table_name,trimester_date,T_0_feature_value,T_1_feature_value,T_2_feature_value,T_3_feature_value,T_4_feature_value,short_description
+Santander,Balance General Pasivo,2021T2,840840,848345,845107,862618,880490,Captacion tradicional
+Santander,Balance General Pasivo,2021T2,548636,536791,515449,507949,506332,Depositos de exigibilidad inmediata
+Santander,Balance General Pasivo,2021T2,178069,183904,195736,199815,223703,Depositos a plazo - publico en general
+Santander,Balance General Pasivo,2021T2,38058,45094,51467,63483,58072,Depositos a plazo - mercado de dinero
+Santander,Balance General Pasivo,2021T2,74177,80718,80663,89634,90750,Titulos de credito emitidos
+Santander,Balance General Pasivo,2021T2,1900,1838,1792,1737,1633,Cuenta global de captacion sin movimientos
+Santander,Balance General Pasivo,2021T2,43321,42825,47876,45252,73378,Prestamos bancarios y de otros organismos
+Santander,Balance General Pasivo,2021T2,14187,10960,5425,2349,30459,De exigibilidad inmediata
+Santander,Balance General Pasivo,2021T2,14895,17793,18338,18904,18972,De corto plazo
+Santander,Balance General Pasivo,2021T2,14239,14072,24113,23999,23947,De largo plazo
+Santander,Balance General Pasivo,2021T2,175437,295632,335429,282666,267962,Acreedores por reporto
+Santander,Balance General Pasivo,2021T2,29755,20952,15610,14260,15411,Colaterales vendidos o dados en garantía
+Santander,Balance General Pasivo,2021T2,526,414,347,748,999,Reportos
+Santander,Balance General Pasivo,2021T2,29229,20538,15263,13512,14412,Prestamo de valores
+Santander,Balance General Pasivo,2021T2,197271,223898,305465,332882,399025,Derivados
+Santander,Balance General Pasivo,2021T2,187373,211768,286511,308571,371702,Con fines de negociacion
+Santander,Balance General Pasivo,2021T2,9898,12130,18954,24311,27323,Con fines de cobertura
+Santander,Balance General Pasivo,2021T2,1,0,0,2,4,Ajuste de valuacion por cobertura de pasivos financieros
+Santander,Balance General Pasivo,2021T2,150840,119429,111181,129664,104481,Otras cuentas por pagar
+Santander,Balance General Pasivo,2021T2,211,437,359,279,226,Participacion de los trabajadores en las utilidades por pagar
+Santander,Balance General Pasivo,2021T2,81831,49320,39945,57490,38272,Acreedores por liquidación de operaciones
+Santander,Balance General Pasivo,2021T2,69,180,5,27,109,Acreedores por cuentas de margen
+Santander,Balance General Pasivo,2021T2,21836,18883,23053,24917,26471,Acreedores por colaterales recibidos en efectivo
+Santander,Balance General Pasivo,2021T2,46893,50609,47819,46951,39403,Acreedores diversos y otras cuentas por pagar
+Santander,Balance General Pasivo,2021T2,36186,36757,36182,39814,41957,Obligaciones subordinadas en circulacion
+Santander,Balance General Pasivo,2021T2,794,806,492,51,106,Creditos diferidos y cobros anticipados
+Santander,Balance General Pasivo,2021T2,1474443,1588644,1697342,1707209,1782814,Total pasivo
+Santander,Balance General Pasivo,2021T2,35034,34976,34933,35030,34977,Capital contribuido
+Santander,Balance General Pasivo,2021T2,29799,29799,29799,29799,29799,Capital social
+Santander,Balance General Pasivo,2021T2,5235,5177,5134,5231,5178,Prima en venta de acciones
+Santander,Balance General Pasivo,2021T2,124907,124678,123938,116445,111559,Capital ganado
+Santander,Balance General Pasivo,2021T2,26940,25446,25446,25446,25446,Reservas de capital
+Santander,Balance General Pasivo,2021T2,93089,96673,76672,76837,77013,Resultado de ejercicios anteriores
+Santander,Balance General Pasivo,2021T2,1586,563,3632,1276,1516,Resultado por valuacion de titulos disponibles para la venta
+Santander,Balance General Pasivo,2021T2,19,159,491,820,1104,Resultado por valuación de instrumentos de cobertura de flujos de efectivo
+Santander,Balance General Pasivo,2021T2,9,9,9,9,9,Efecto acumulado por conversión
+Santander,Balance General Pasivo,2021T2,1606,1488,1523,1009,1001,Remediciones por beneficios definidos a los empleados
+Santander,Balance General Pasivo,2021T2,7992,3279,20154,14674,9644,Resultado neto
+Santander,Balance General Pasivo,2021T2,50,37,39,32,36,Participacion no controladora
+Santander,Balance General Pasivo,2021T2,159941,159654,158871,151475,146536,Total capital contable
+Santander,Balance General Pasivo,2021T2,1634384,1748298,1856213,1858684,1929350,Total pasivo y capital contable

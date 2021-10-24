@@ -1,0 +1,394 @@
+trimester_date,bank_name,table_name,short_description,T_0_feature_value,T_1_feature_value,T_2_feature_value,T_3_feature_value,T_4_feature_value,T_5_feature_value,T_6_feature_value
+2021T2,BBVA,Estado de resultados,ingresos por intereses,45576.0,46996.0,46293.0,47619.0,43526.0,0,0
+2021T2,BBVA,Estado de resultados,ingresos por primas neto,6829.0,9395.0,6532.0,5987.0,5043.0,0,0
+2021T2,BBVA,Estado de resultados,gastos por intereses,-9841.0,-10123.0,-10599.0,-11991.0,-15153.0,0,0
+2021T2,BBVA,Estado de resultados,incremento neto de reservas tecnicas,414.0,-2617.0,1011.0,-341.0,1859.0,0,0
+2021T2,BBVA,Estado de resultados,siniestralidad reclamaciones y otras obligaciones contractuales neto,-8569.0,-8892.0,-7323.0,-7229.0,-6186.0,0,0
+2021T2,BBVA,Estado de resultados,margen financiero,34409.0,34759.0,35914.0,34045.0,29089.0,0,0
+2021T2,BBVA,Estado de resultados,estimacion preventiva para riesgos crediticios,-6479.0,-10450.0,-16270.0,-7008.0,-7613.0,0,0
+2021T2,BBVA,Estado de resultados,margen financiero ajustado por riesgos crediticios,27930.0,24309.0,19644.0,27037.0,21476.0,0,0
+2021T2,BBVA,Estado de resultados,ingreso no financiero,10495.0,8506.0,9615.0,9469.0,10086.0,0,0
+2021T2,BBVA,Estado de resultados,comisiones y tarifas cobradas,12194.0,11175.0,12102.0,10572.0,9116.0,0,0
+2021T2,BBVA,Estado de resultados,comisiones y tarifas pagadas,-5154.0,-4471.0,-4779.0,-4073.0,-3584.0,0,0
+2021T2,BBVA,Estado de resultados,comisiones y tarifas neto,7040.0,6704.0,7323.0,6499.0,5532.0,0,0
+2021T2,BBVA,Estado de resultados,resultado por intermediacion,3455.0,1802.0,2292.0,2970.0,4554.0,0,0
+2021T2,BBVA,Estado de resultados,otros ingresos egresos de la operacion,1070.0,-169.0,-122.0,542.0,-631.0,0,0
+2021T2,BBVA,Estado de resultados,total de ingresos egresos de la operacion,39495.0,32646.0,29137.0,37048.0,30931.0,0,0
+2021T2,BBVA,Estado de resultados,gastos de administracion y promocion,-17845.0,-17409.0,-16853.0,-16317.0,-16237.0,0,0
+2021T2,BBVA,Estado de resultados,resultado de la operacion,21650.0,15237.0,12284.0,20731.0,14694.0,0,0
+2021T2,BBVA,Estado de resultados,participacion en el resultado de subsidiarias no consolidadas y asociadas,25.0,133.0,18.0,22.0,1.0,0,0
+2021T2,BBVA,Estado de resultados,resultado antes de impuestos a la utilidad,21675.0,15370.0,12302.0,20753.0,14695.0,0,0
+2021T2,BBVA,Estado de resultados,impuestos a la utilidad causados,-6260.0,-3514.0,-5333.0,-8120.0,-701.0,0,0
+2021T2,BBVA,Estado de resultados,impuestos a la utilidad diferidos netos,-602.0,-769.0,1829.0,1619.0,-2803.0,0,0
+2021T2,BBVA,Estado de resultados,impuestos netos,-6862.0,-4283.0,-3504.0,-6501.0,-3504.0,0,0
+2021T2,BBVA,Estado de resultados,resultado antes de participacion en subsidiarias no consolidadas y asociadas,14813.0,11087.0,8798.0,14252.0,11191.0,0,0
+2021T2,BBVA,Estado de resultados,participacion en el resultado de subsidiarias y asociadas,0.0,0.0,0.0,42.0,20.0,0,0
+2021T2,BBVA,Estado de resultados,resultado antes de operaciones discontinuadas,14813.0,11087.0,8798.0,14252.0,11191.0,0,0
+2021T2,BBVA,Estado de resultados,operaciones discontinuadas,0.0,0.0,0.0,0.0,0.0,0,0
+2021T2,BBVA,Estado de resultados,resultado antes de participacion no controladora,14813.0,11087.0,8798.0,14252.0,11191.0,0,0
+2021T2,BBVA,Estado de resultados,participacion no controladora,-5.0,0.0,1.0,0.0,-2.0,0,0
+2021T2,BBVA,Estado de resultados,resultado neto,14808.0,11087.0,8799.0,14252.0,11189.0,0,0
+2021T2,Banorte,Estado de resultados,ingresos por intereses,31016.0,32142.0,30296.0,32987.0,32350.0,0,0
+2021T2,Banorte,Estado de resultados,gastos por intereses,9260.0,9405.0,9324.0,10149.0,13032.0,0,0
+2021T2,Banorte,Estado de resultados,comisiones cobradas,362.0,352.0,380.0,354.0,346.0,0,0
+2021T2,Banorte,Estado de resultados,comisiones pagadas,313.0,314.0,314.0,281.0,270.0,0,0
+2021T2,Banorte,Estado de resultados,ingresos de intereses netos de intereses y ,21806.0,22775.0,21038.0,22911.0,19395.0,0,0
+2021T2,Banorte,Estado de resultados,ingresos por primas neto,8602.0,15340.0,9192.0,7385.0,8118.0,0,0
+2021T2,Banorte,Estado de resultados,incremento neto de reservas tecnicas,4983.0,11016.0,4368.0,4262.0,1216.0,0,0
+2021T2,Banorte,Estado de resultados,siniestros reclamaciones y otras obligaciones,5777.0,7097.0,6281.0,5433.0,5613.0,0,0
+2021T2,Banorte,Estado de resultados,margen financiero,19649.0,20002.0,19580.0,20601.0,20683.0,0,0
+2021T2,Banorte,Estado de resultados,estimacion preventiva para riesgos crediticios,2765.0,3215.0,5993.0,3138.0,8456.0,0,0
+2021T2,Banorte,Estado de resultados,margen financiero ajustado por riesgos crediticios,16883.0,16788.0,13587.0,17463.0,12227.0,0,0
+2021T2,Banorte,Estado de resultados,transferencia de fondos,530.0,473.0,513.0,489.0,476.0,0,0
+2021T2,Banorte,Estado de resultados,manejo de cuenta,491.0,494.0,529.0,548.0,508.0,0,0
+2021T2,Banorte,Estado de resultados,servicios de banca electronica,3212.0,2916.0,3033.0,2379.0,2027.0,0,0
+2021T2,Banorte,Estado de resultados,por creditos comerciales y  vivienda,278.0,296.0,366.0,129.0,394.0,0,0
+2021T2,Banorte,Estado de resultados,por creditos de consumo y tarjeta de credito,1263.0,1164.0,1292.0,1148.0,1049.0,0,0
+2021T2,Banorte,Estado de resultados,fiduciario,177.0,106.0,153.0,113.0,102.0,0,0
+2021T2,Banorte,Estado de resultados,ingresos por portafolios inmobiliarios,23.0,10.0,19.0,6.0,11.0,0,0
+2021T2,Banorte,Estado de resultados,fondos de inversion,503.0,484.0,504.0,501.0,486.0,0,0
+2021T2,Banorte,Estado de resultados,asesoria e intermediacion financiera,166.0,188.0,142.0,128.0,126.0,0,0
+2021T2,Banorte,Estado de resultados,otras comisiones cobradas,42.0,250.0,223.0,268.0,226.0,0,0
+2021T2,Banorte,Estado de resultados,comisiones y tarifas cobradas,6685.0,6380.0,6775.0,5708.0,5406.0,0,0
+2021T2,Banorte,Estado de resultados,cuotas de intercambio,1911.0,1625.0,1684.0,1228.0,1018.0,0,0
+2021T2,Banorte,Estado de resultados,comisiones de seguros,236.0,339.0,227.0,317.0,353.0,0,0
+2021T2,Banorte,Estado de resultados,otras comisiones pagadas,1248.0,1202.0,1264.0,1066.0,966.0,0,0
+2021T2,Banorte,Estado de resultados,comisiones y tarifas pagados,3396.0,3166.0,3176.0,2611.0,2337.0,0,0
+2021T2,Banorte,Estado de resultados,com isiones por servicios netas,3289.0,3214.0,3599.0,3096.0,3069.0,0,0
+2021T2,Banorte,Estado de resultados,divisas y metales,-453.0,575.0,-1483.0,-309.0,-501.0,0,0
+2021T2,Banorte,Estado de resultados,derivados,164.0,111.0,309.0,531.0,1139.0,0,0
+2021T2,Banorte,Estado de resultados,titulos,122.0,-579.0,92.0,80.0,-111.0,0,0
+2021T2,Banorte,Estado de resultados,valuacion,-167.0,107.0,-1083.0,302.0,527.0,0,0
+2021T2,Banorte,Estado de resultados,divisas y metales,838.0,764.0,1930.0,464.0,774.0,0,0
+2021T2,Banorte,Estado de resultados,derivados,-10.0,5.0,-169.0,2.0,-323.0,0,0
+2021T2,Banorte,Estado de resultados,titulos,180.0,87.0,180.0,359.0,724.0,0,0
+2021T2,Banorte,Estado de resultados,com praventa,1008.0,857.0,1941.0,826.0,1175.0,0,0
+2021T2,Banorte,Estado de resultados,resultado por intermediacion,840.0,964.0,858.0,1128.0,1703.0,0,0
+2021T2,Banorte,Estado de resultados,recuperacion de cartera de credito,85.0,99.0,69.0,90.0,63.0,0,0
+2021T2,Banorte,Estado de resultados,portafolios de credito,0.0,0.0,0.0,0.0,0.0,0,0
+2021T2,Banorte,Estado de resultados,resultado por bienes adjudicados,132.0,87.0,129.0,165.0,132.0,0,0
+2021T2,Banorte,Estado de resultados,liberacion de provisiones,0.0,0.0,0.0,0.0,0.0,0,0
+2021T2,Banorte,Estado de resultados,deterioro de activos,0.0,0.0,0.0,0.0,0.0,0,0
+2021T2,Banorte,Estado de resultados,ingresos por arrendamiento,57.0,64.0,62.0,11.0,77.0,0,0
+2021T2,Banorte,Estado de resultados,provenientes de seguros,195.0,275.0,317.0,198.0,322.0,0,0
+2021T2,Banorte,Estado de resultados,resultado por valuacion en op de bursatilizacion,0.0,0.0,-36.0,15.0,6.0,0,0
+2021T2,Banorte,Estado de resultados,otros gastos,141.0,298.0,319.0,178.0,541.0,0,0
+2021T2,Banorte,Estado de resultados,otros ingresos egresos de la operacion,609.0,822.0,859.0,656.0,1140.0,0,0
+2021T2,Banorte,Estado de resultados,total de ingresos no financieros,4739.0,5000.0,5315.0,4880.0,5911.0,0,0
+2021T2,Banorte,Estado de resultados,ingreso total de operacion,21622.0,21788.0,18903.0,22343.0,18139.0,0,0
+2021T2,Banorte,Estado de resultados,gasto de personal,4273.0,4006.0,4660.0,4037.0,3891.0,0,0
+2021T2,Banorte,Estado de resultados,participacion en el resultado de subsidiarias y asociadas,139.0,139.0,136.0,133.0,133.0,0,0
+2021T2,Banorte,Estado de resultados,honorarios pagados,808.0,806.0,962.0,861.0,801.0,0,0
+2021T2,Banorte,Estado de resultados,gastos de administracion y promocion,1914.0,2223.0,2141.0,2075.0,2032.0,0,0
+2021T2,Banorte,Estado de resultados,rentas depreciaciones y amortizaciones,2240.0,2243.0,2136.0,2074.0,2047.0,0,0
+2021T2,Banorte,Estado de resultados,otros impuestos y gastos no deducibles,589.0,553.0,648.0,496.0,483.0,0,0
+2021T2,Banorte,Estado de resultados,aportacion al fobaproa o al ipab,889.0,912.0,931.0,951.0,919.0,0,0
+2021T2,Banorte,Estado de resultados,gastos de administracion y promocion,10851.0,10883.0,11612.0,10627.0,10307.0,0,0
+2021T2,Banorte,Estado de resultados,resultado de la operacion,10771.0,10905.0,7290.0,11717.0,7832.0,0,0
+2021T2,Banorte,Estado de resultados,participacion en subsidiarias y asociadas no,675.0,429.0,509.0,492.0,648.0,0,0
+2021T2,Banorte,Estado de resultados,resultado antes de impuestos a la utilidad,11446.0,11334.0,7800.0,12208.0,8480.0,0,0
+2021T2,Banorte,Estado de resultados,impuestos a la utilidad causados,1738.0,1909.0,2268.0,2477.0,947.0,0,0
+2021T2,Banorte,Estado de resultados,impuesto al activo,0.0,0.0,0.0,0.0,0.0,0,0
+2021T2,Banorte,Estado de resultados,impuestos a la utilidad diferidos,1017.0,769.0,-511.0,702.0,939.0,0,0
+2021T2,Banorte,Estado de resultados,im puestos,2756.0,2678.0,1757.0,3178.0,1886.0,0,0
+2021T2,Banorte,Estado de resultados,resultado antes de operaciones discontinuadas,8690.0,8656.0,6043.0,9030.0,6593.0,0,0
+2021T2,Banorte,Estado de resultados,operaciones discontinuadas,0.0,0.0,0.0,0.0,0.0,0,0
+2021T2,Banorte,Estado de resultados,participacion no controladora,-122.0,-112.0,-77.0,-124.0,-75.0,0,0
+2021T2,Banorte,Estado de resultados,resultado neto,8568.0,8544.0,5966.0,8906.0,6518.0,0,0
+2021T2,Santander,Estado de resultados,margen financiero,15585.0,16272.0,16896.0,15585.0,16896.0,0,0
+2021T2,Santander,Estado de resultados,estimacion preventiva para riesgos crediticios,-7075.0,-3152.0,-5165.0,-7075.0,-5165.0,0,0
+2021T2,Santander,Estado de resultados,margen financiero ajustado por riesgos crediticios,8510.0,13120.0,11731.0,8510.0,11731.0,0,0
+2021T2,Santander,Estado de resultados,comisiones y tarifas pagadas,4902.0,4709.0,4697.0,4902.0,4697.0,0,0
+2021T2,Santander,Estado de resultados,resultado por intermediacion,1398.0,723.0,883.0,1398.0,883.0,0,0
+2021T2,Santander,Estado de resultados,otros ingresos egresos de la operacion,-664.0,-379.0,-212.0,-664.0,-212.0,0,0
+2021T2,Santander,Estado de resultados,gastos de administracion y promocion,-9894.0,-11102.0,-9785.0,-9894.0,-9785.0,0,0
+2021T2,Santander,Estado de resultados,resultado de la operacion,4252.0,7071.0,7314.0,4252.0,7314.0,0,0
+2021T2,Santander,Estado de resultados,participacion en el resultado de subsidiarias no consolidadas y asociad,77.0,79.0,4.0,77.0,4.0,0,0
+2021T2,Santander,Estado de resultados,resultado antes de impuestos a la utilidad,4329.0,7150.0,7318.0,4329.0,7318.0,0,0
+2021T2,Santander,Estado de resultados,impuestos a la utilidad diferidos netos,-1050.0,-1670.0,-1904.0,-1050.0,-1904.0,0,0
+2021T2,Santander,Estado de resultados,resultado neto,3279.0,5480.0,5414.0,3279.0,5414.0,0,0
+2021T2,Santander,Estado de resultados,tasa efectiva de impuestos,24.26,23.36,26.02,24.26,26.02,0,0
+2021T2,Santander,Estado de resultados,resultado antes de operaciones discontinuadas,3279.0,5480.0,5414.0,3279.0,5414.0,0,0
+2021T2,BBVA,Balance General Pasivos,captacion tradicional,1384394.0,1413428.0,1410989.0,1444230.0,1447716.0,0,0
+2021T2,BBVA,Balance General Pasivos,depositos de exigibilidad inmediata,1016021.0,1047248.0,1083733.0,1115493.0,1131180.0,0,0
+2021T2,BBVA,Balance General Pasivos,depositos a plazo,273665.0,272245.0,238248.0,238406.0,223515.0,0,0
+2021T2,BBVA,Balance General Pasivos,del publico en general,245544.0,251619.0,224386.0,232356.0,217871.0,0,0
+2021T2,BBVA,Balance General Pasivos,mercado de dinero,28121.0,20626.0,13862.0,6050.0,5644.0,0,0
+2021T2,BBVA,Balance General Pasivos,titulos de credito emitidos,89927.0,89006.0,84052.0,85296.0,87743.0,0,0
+2021T2,BBVA,Balance General Pasivos,cuenta global de captacion sin movimientos,4781.0,4929.0,4956.0,5035.0,5278.0,0,0
+2021T2,BBVA,Balance General Pasivos,prestamos interbancarios y de otros organismos,20358.0,19374.0,17860.0,30885.0,30456.0,0,0
+2021T2,BBVA,Balance General Pasivos,de corto plazo,9604.0,7757.0,6985.0,6070.0,6171.0,0,0
+2021T2,BBVA,Balance General Pasivos,de largo plazo,10754.0,11617.0,10875.0,24815.0,24285.0,0,0
+2021T2,BBVA,Balance General Pasivos,reservas tecnicas,226827.0,234163.0,238550.0,250399.0,260167.0,0,0
+2021T2,BBVA,Balance General Pasivos,acreedores por reporto,215118.0,240870.0,255331.0,247129.0,300078.0,0,0
+2021T2,BBVA,Balance General Pasivos,prestamos de valores,2.0,1.0,5.0,3.0,1.0,0,0
+2021T2,BBVA,Balance General Pasivos,colaterales vendidos o dados en garantia,55877.0,49932.0,63841.0,64426.0,53068.0,0,0
+2021T2,BBVA,Balance General Pasivos,reportos,0.0,0.0,0.0,19963.0,12591.0,0,0
+2021T2,BBVA,Balance General Pasivos,prestamo de valores,55877.0,49932.0,63841.0,44463.0,40477.0,0,0
+2021T2,BBVA,Balance General Pasivos,derivados,302932.0,244304.0,223841.0,162609.0,152846.0,0,0
+2021T2,BBVA,Balance General Pasivos,con fines de negociacion,285789.0,229061.0,210971.0,155273.0,146775.0,0,0
+2021T2,BBVA,Balance General Pasivos,con fines de cobertura,17143.0,15243.0,12870.0,7336.0,6071.0,0,0
+2021T2,BBVA,Balance General Pasivos,ajustes de valuacion por cobertura de pasivos financieros,10770.0,9659.0,7915.0,4796.0,4742.0,0,0
+2021T2,BBVA,Balance General Pasivos,cuentas por pagar a reaseguradores y reafianzadores neto,164.0,161.0,934.0,1396.0,1301.0,0,0
+2021T2,BBVA,Balance General Pasivos,otras cuentas por pagar,137515.0,133830.0,121001.0,126387.0,169320.0,0,0
+2021T2,BBVA,Balance General Pasivos,impuestos a la utilidad por pagar,0.0,0.0,0.0,0.0,1448.0,0,0
+2021T2,BBVA,Balance General Pasivos,participacion de los trabajadores en las utilidades por pagar,20.0,22.0,285.0,75.0,195.0,0,0
+2021T2,BBVA,Balance General Pasivos,acreedores por liquidacion de operaciones,77516.0,78298.0,55312.0,62518.0,68820.0,0,0
+2021T2,BBVA,Balance General Pasivos,acreedores por cuentas de margen,0.0,0.0,1179.0,348.0,348.0,0,0
+2021T2,BBVA,Balance General Pasivos,acreedores por colaterales recibidos en efectivo,26875.0,24937.0,19762.0,21444.0,15975.0,0,0
+2021T2,BBVA,Balance General Pasivos,acreedores diversos y otras cuentas por pagar,33104.0,30573.0,44463.0,42002.0,82534.0,0,0
+2021T2,BBVA,Balance General Pasivos,obligaciones subordinadas en circulacion,98793.0,93446.0,85181.0,70869.0,69943.0,0,0
+2021T2,BBVA,Balance General Pasivos,creditos diferidos y cobros anticipados,7412.0,7382.0,7540.0,7604.0,7539.0,0,0
+2021T2,BBVA,Balance General Pasivos,total pasivo,2460162.0,2446550.0,2432988.0,2410733.0,2497177.0,0,0
+2021T2,BBVA,Balance General Pasivos,capital contribuido,89132.0,89132.0,89132.0,89132.0,89132.0,0,0
+2021T2,BBVA,Balance General Pasivos,capital social,9799.0,9799.0,9799.0,9799.0,9799.0,0,0
+2021T2,BBVA,Balance General Pasivos,prima en venta de acciones,79333.0,79333.0,79333.0,79333.0,79333.0,0,0
+2021T2,BBVA,Balance General Pasivos,capital ganado,159129.0,173613.0,182393.0,188490.0,193428.0,0,0
+2021T2,BBVA,Balance General Pasivos,reservas de capital,204.0,204.0,204.0,204.0,204.0,0,0
+2021T2,BBVA,Balance General Pasivos,resultado de ejercicios anteriores,145650.0,145650.0,145650.0,188510.0,173865.0,0,0
+2021T2,BBVA,Balance General Pasivos,resultado por valuacion de titulos disponibles para la venta ,577.0,774.0,2879.0,-2122.0,-3552.0,0,0
+2021T2,BBVA,Balance General Pasivos,resultado por valuacion de instrumentos de cobertura de flujos de efectivo,389.0,283.0,-96.0,-430.0,-562.0,0,0
+2021T2,BBVA,Balance General Pasivos,efecto acumulado por conversion,440.0,440.0,440.0,440.0,0.0,0,0
+2021T2,BBVA,Balance General Pasivos,remediciones por beneficios definidos a los empleados,-7940.0,-7799.0,-9544.0,-9199.0,-2422.0,0,0
+2021T2,BBVA,Balance General Pasivos,resultado neto,19809.0,34061.0,42860.0,11087.0,25895.0,0,0
+2021T2,BBVA,Balance General Pasivos,capital contable mayoritario,248261.0,262745.0,271525.0,277622.0,282560.0,0,0
+2021T2,BBVA,Balance General Pasivos,participacion no controladora,39.0,40.0,39.0,39.0,44.0,0,0
+2021T2,BBVA,Balance General Pasivos,total capital contable,248300.0,262785.0,271564.0,277661.0,282604.0,0,0
+2021T2,BBVA,Balance General Pasivos,total pasivo y capital contable,2708462.0,2709335.0,2704552.0,2688394.0,2779781.0,0,0
+2021T2,Banorte,Balance General Pasivos,depositos exigibilidad inmediata,529030.0,541002.0,520283.0,496641.0,469861.0,0,0
+2021T2,Banorte,Balance General Pasivos,depositos a plazodel publico en general,243038.0,246883.0,252271.0,251418.0,265100.0,0,0
+2021T2,Banorte,Balance General Pasivos,depositos a plazomercado de dinero,3364.0,8069.0,14248.0,26741.0,28433.0,0,0
+2021T2,Banorte,Balance General Pasivos,cuenta global de captacion sin movimientos,2744.0,2639.0,2585.0,2489.0,2368.0,0,0
+2021T2,Banorte,Balance General Pasivos,titulos de credito emitidos,31907.0,31937.0,32325.0,35815.0,35386.0,0,0
+2021T2,Banorte,Balance General Pasivos,captacion de recursos,810082.0,830531.0,821712.0,813104.0,801148.0,0,0
+2021T2,Banorte,Balance General Pasivos,de exigibilidad inmediata,0.0,0.0,0.0,0.0,0.0,0,0
+2021T2,Banorte,Balance General Pasivos,de corto plazo,19531.0,20054.0,22499.0,22185.0,47365.0,0,0
+2021T2,Banorte,Balance General Pasivos,de largo plazo,14223.0,13962.0,13522.0,13223.0,14452.0,0,0
+2021T2,Banorte,Balance General Pasivos,prestamos interbancarios y de otros organismos,33754.0,34016.0,36021.0,35408.0,61817.0,0,0
+2021T2,Banorte,Balance General Pasivos,reservas tecnicas,204291.0,200479.0,187846.0,183866.0,179930.0,0,0
+2021T2,Banorte,Balance General Pasivos,valores  asignados por liquidar,0.0,0.0,0.0,0.0,0.0,0,0
+2021T2,Banorte,Balance General Pasivos,acreedores por reporto,382616.0,371414.0,353094.0,352628.0,353211.0,0,0
+2021T2,Banorte,Balance General Pasivos,prestamos de valores,0.0,0.0,0.0,0.0,0.0,0,0
+2021T2,Banorte,Balance General Pasivos,reportos saldo acreedor,55.0,19.0,13.0,2.0,8.0,0,0
+2021T2,Banorte,Balance General Pasivos,prestamos de valores,22.0,13.0,8.0,0.0,0.0,0,0
+2021T2,Banorte,Balance General Pasivos,otros colaterales vendidos,0.0,0.0,0.0,0.0,0.0,0,0
+2021T2,Banorte,Balance General Pasivos,colaterales vendidos o dados en garantia,77.0,31.0,21.0,2.0,8.0,0,0
+2021T2,Banorte,Balance General Pasivos,con fines de negociacion,20011.0,24508.0,44097.0,50121.0,58754.0,0,0
+2021T2,Banorte,Balance General Pasivos,con fines de cobertura,5623.0,5566.0,4990.0,7189.0,7682.0,0,0
+2021T2,Banorte,Balance General Pasivos,operaciones con valores y derivados,0.0,0.0,0.0,0.0,0.0,0,0
+2021T2,Banorte,Balance General Pasivos,derivados,25634.0,30073.0,49087.0,57310.0,66436.0,0,0
+2021T2,Banorte,Balance General Pasivos,total de op con valores y derivados,408328.0,401518.0,402202.0,409939.0,419655.0,0,0
+2021T2,Banorte,Balance General Pasivos,ajustes de valuacion por cobertura de pasivos,0.0,0.0,0.0,0.0,0.0,0,0
+2021T2,Banorte,Balance General Pasivos,obligaciones en operaciones de bursatilizacion,0.0,0.0,0.0,0.0,0.0,0,0
+2021T2,Banorte,Balance General Pasivos,cuentas por pagar a reaseguradores y,2790.0,3145.0,2269.0,2918.0,3159.0,0,0
+2021T2,Banorte,Balance General Pasivos,reafianzadores neto,0.0,0.0,0.0,0.0,0.0,0,0
+2021T2,Banorte,Balance General Pasivos,impuestos a la utilidad por pagar,1660.0,1895.0,4365.0,3521.0,2718.0,0,0
+2021T2,Banorte,Balance General Pasivos,participacion de los trabajadores en la utili,297.0,187.0,538.0,407.0,280.0,0,0
+2021T2,Banorte,Balance General Pasivos,aport para futuros aumentos de capital,0.0,0.0,0.0,0.0,0.0,0,0
+2021T2,Banorte,Balance General Pasivos,acreedores por liquidacion de operaciones,8282.0,4020.0,4892.0,11182.0,4621.0,0,0
+2021T2,Banorte,Balance General Pasivos,acreedores por cuentas de margen,0.0,0.0,0.0,0.0,0.0,0,0
+2021T2,Banorte,Balance General Pasivos,acreedores diver y otras ctas ppagar,42812.0,43030.0,42775.0,50021.0,44126.0,0,0
+2021T2,Banorte,Balance General Pasivos,otras cuentas por pagar,53051.0,49132.0,52570.0,65131.0,51745.0,0,0
+2021T2,Banorte,Balance General Pasivos,obligaciones subordinadas en circulacion,57243.0,58759.0,57152.0,66241.0,57321.0,0,0
+2021T2,Banorte,Balance General Pasivos,impuestos diferidos  neto,2242.0,1139.0,1618.0,897.0,0.0,0,0
+2021T2,Banorte,Balance General Pasivos,creditos diferidos y cobros anticipados,1260.0,1346.0,1411.0,430.0,462.0,0,0
+2021T2,Banorte,Balance General Pasivos,total pasivo,1573041.0,1580066.0,1562801.0,1577935.0,1575237.0,0,0
+2021T2,Banorte,Balance General Pasivos,capital social,14936.0,14936.0,14919.0,14901.0,14901.0,0,0
+2021T2,Banorte,Balance General Pasivos,aport para futuros aumentos de capital pendientes,0.0,0.0,0.0,0.0,0.0,0,0
+2021T2,Banorte,Balance General Pasivos,prima en venta de acciones,48283.0,47863.0,48269.0,48509.0,48316.0,0,0
+2021T2,Banorte,Balance General Pasivos,obligaciones subordinadas en circulacion,0.0,0.0,0.0,0.0,0.0,0,0
+2021T2,Banorte,Balance General Pasivos,capital contribuido,63219.0,62799.0,63188.0,63410.0,63217.0,0,0
+2021T2,Banorte,Balance General Pasivos,reservas de capital,8415.0,9719.0,9215.0,8753.0,8746.0,0,0
+2021T2,Banorte,Balance General Pasivos,resultado de ejercicios anteriores,139558.0,148359.0,118773.0,119734.0,120910.0,0,0
+2021T2,Banorte,Balance General Pasivos,res por valuacion de titulos disponibles para la,2615.0,2199.0,3801.0,1771.0,574.0,0,0
+2021T2,Banorte,Balance General Pasivos,res por valuacion de instrumentos de cobertura de,-2451.0,-2214.0,-887.0,-1677.0,-1398.0,0,0
+2021T2,Banorte,Balance General Pasivos,resultado en la valuacion de la reserva de riesgo en,-103.0,-110.0,-231.0,-190.0,-184.0,0,0
+2021T2,Banorte,Balance General Pasivos,efecto acumulado por conversion,132.0,166.0,134.0,269.0,326.0,0,0
+2021T2,Banorte,Balance General Pasivos,remediciones por beneficios definidos a los,-2199.0,-2229.0,-2259.0,-1960.0,-1927.0,0,0
+2021T2,Banorte,Balance General Pasivos,exceso insuf en la actualiz del cap cont,0.0,0.0,0.0,0.0,0.0,0,0
+2021T2,Banorte,Balance General Pasivos,ajustes por obligaciones laborales al retiro,0.0,0.0,0.0,0.0,0.0,0,0
+2021T2,Banorte,Balance General Pasivos,resultado neto,17112.0,8544.0,30508.0,24542.0,15636.0,0,0
+2021T2,Banorte,Balance General Pasivos,capital ganado,163079.0,164434.0,159053.0,151242.0,142684.0,0,0
+2021T2,Banorte,Balance General Pasivos,participacion no controladora,3025.0,2908.0,2862.0,2719.0,2443.0,0,0
+2021T2,Banorte,Balance General Pasivos,total capital contable,229322.0,230142.0,225103.0,217371.0,208344.0,0,0
+2021T2,Banorte,Balance General Pasivos,total pasivo y capital contable,1802363.0,1810207.0,1787904.0,1795306.0,1783581.0,0,0
+2021T2,Santander,Balance General Pasivos,captacion tradicional,840840.0,848345.0,845107.0,862618.0,880490.0,0,0
+2021T2,Santander,Balance General Pasivos,depositos de exigibilidad inmediata,548636.0,536791.0,515449.0,507949.0,506332.0,0,0
+2021T2,Santander,Balance General Pasivos,depositos a plazo  publico en general,178069.0,183904.0,195736.0,199815.0,223703.0,0,0
+2021T2,Santander,Balance General Pasivos,depositos a plazo  mercado de dinero,38058.0,45094.0,51467.0,63483.0,58072.0,0,0
+2021T2,Santander,Balance General Pasivos,titulos de credito emitidos,74177.0,80718.0,80663.0,89634.0,90750.0,0,0
+2021T2,Santander,Balance General Pasivos,cuenta global de captacion sin movimientos,1900.0,1838.0,1792.0,1737.0,1633.0,0,0
+2021T2,Santander,Balance General Pasivos,prestamos interbancarios y de otros organismos,43321.0,42825.0,47876.0,45252.0,73378.0,0,0
+2021T2,Santander,Balance General Pasivos,de exigibilidad inmediata,14187.0,10960.0,5425.0,2349.0,30459.0,0,0
+2021T2,Santander,Balance General Pasivos,de corto plazo,14895.0,17793.0,18338.0,18904.0,18972.0,0,0
+2021T2,Santander,Balance General Pasivos,de largo plazo,14239.0,14072.0,24113.0,23999.0,23947.0,0,0
+2021T2,Santander,Balance General Pasivos,acreedores por reporto,175437.0,295632.0,335429.0,282666.0,267962.0,0,0
+2021T2,Santander,Balance General Pasivos,colaterales vendidos o dados en garantia,29755.0,20952.0,15610.0,14260.0,15411.0,0,0
+2021T2,Santander,Balance General Pasivos,reportos,526.0,414.0,347.0,748.0,999.0,0,0
+2021T2,Santander,Balance General Pasivos,prestamo de valores,29229.0,20538.0,15263.0,13512.0,14412.0,0,0
+2021T2,Santander,Balance General Pasivos,derivados,197271.0,223898.0,305465.0,332882.0,399025.0,0,0
+2021T2,Santander,Balance General Pasivos,con fines de negociacion,187373.0,211768.0,286511.0,308571.0,371702.0,0,0
+2021T2,Santander,Balance General Pasivos,con fines de cobertura,9898.0,12130.0,18954.0,24311.0,27323.0,0,0
+2021T2,Santander,Balance General Pasivos,ajuste de valuacion por cobertura de pasivos financieros,1.0,0.0,0.0,2.0,4.0,0,0
+2021T2,Santander,Balance General Pasivos,otras cuentas por pagar,150840.0,119429.0,111181.0,129664.0,104481.0,0,0
+2021T2,Santander,Balance General Pasivos,participacion de los trabajadores en las utilidades por pagar,211.0,437.0,359.0,279.0,226.0,0,0
+2021T2,Santander,Balance General Pasivos,acreedores por liquidacion de operaciones,81831.0,49320.0,39945.0,57490.0,38272.0,0,0
+2021T2,Santander,Balance General Pasivos,acreedores por cuentas de margen,69.0,180.0,5.0,27.0,109.0,0,0
+2021T2,Santander,Balance General Pasivos,acreedores por colaterales recibidos en efectivo,21836.0,18883.0,23053.0,24917.0,26471.0,0,0
+2021T2,Santander,Balance General Pasivos,acreedores diversos y otras cuentas por pagar,46893.0,50609.0,47819.0,46951.0,39403.0,0,0
+2021T2,Santander,Balance General Pasivos,obligaciones subordinadas en circulacion,36186.0,36757.0,36182.0,39814.0,41957.0,0,0
+2021T2,Santander,Balance General Pasivos,creditos diferidos y cobros anticipados,794.0,806.0,492.0,51.0,106.0,0,0
+2021T2,Santander,Balance General Pasivos,total pasivo,1474443.0,1588644.0,1697342.0,1707209.0,1782814.0,0,0
+2021T2,Santander,Balance General Pasivos,capital contribuido,35034.0,34976.0,34933.0,35030.0,34977.0,0,0
+2021T2,Santander,Balance General Pasivos,capital social,29799.0,29799.0,29799.0,29799.0,29799.0,0,0
+2021T2,Santander,Balance General Pasivos,prima en venta de acciones,5235.0,5177.0,5134.0,5231.0,5178.0,0,0
+2021T2,Santander,Balance General Pasivos,capital ganado,124907.0,124678.0,123938.0,116445.0,111559.0,0,0
+2021T2,Santander,Balance General Pasivos,reservas de capital,26940.0,25446.0,25446.0,25446.0,25446.0,0,0
+2021T2,Santander,Balance General Pasivos,resultado de ejercicios anteriores,93089.0,96673.0,76672.0,76837.0,77013.0,0,0
+2021T2,Santander,Balance General Pasivos,resultado por valuacion de titulos disponibles para la venta,1586.0,563.0,3632.0,1276.0,1516.0,0,0
+2021T2,Santander,Balance General Pasivos,resultado por valuacion de instrumentos de cobertura de flujos de efectivo,19.0,159.0,491.0,820.0,1104.0,0,0
+2021T2,Santander,Balance General Pasivos,efecto acumulado por conversion,9.0,9.0,9.0,9.0,9.0,0,0
+2021T2,Santander,Balance General Pasivos,remediciones por beneficios definidos a los empleados,1606.0,1488.0,1523.0,1009.0,1001.0,0,0
+2021T2,Santander,Balance General Pasivos,resultado neto,7992.0,3279.0,20154.0,14674.0,9644.0,0,0
+2021T2,Santander,Balance General Pasivos,participacion no controladora,50.0,37.0,39.0,32.0,36.0,0,0
+2021T2,Santander,Balance General Pasivos,total capital contable,159941.0,159654.0,158871.0,151475.0,146536.0,0,0
+2021T2,Santander,Balance General Pasivos,total pasivo y capital contable,1634384.0,1748298.0,1856213.0,1858684.0,1929350.0,0,0
+2021T2,BBVA,Balance General Activo,disponibilidades,308121.0,256252.0,223687.0,218704.0,181837.0,0,0
+2021T2,BBVA,Balance General Activo,cuentas de margen,15282.0,19360.0,32261.0,26005.0,25838.0,0,0
+2021T2,BBVA,Balance General Activo,Inversiones en Valores,838798.0,821306.0,804360.0,797137.0,730843.0,0,0
+2021T2,BBVA,Balance General Activo,titulos para negociar,403571.0,376565.0,386578.0,398852.0,362401.0,0,0
+2021T2,BBVA,Balance General Activo,titulos disponibles para la venta,247419.0,247707.0,227761.0,209625.0,185134.0,0,0
+2021T2,BBVA,Balance General Activo,titulos conservados a vencimiento,187808.0,197034.0,190021.0,188660.0,183308.0,0,0
+2021T2,BBVA,Balance General Activo,deudores por reporto,7154.0,5143.0,23314.0,10655.0,13885.0,0,0
+2021T2,BBVA,Balance General Activo,derivados,145882.0,156947.0,213927.0,228687.0,290139.0,0,0
+2021T2,BBVA,Balance General Activo,con fines de negociacion,132680.0,143297.0,197606.0,208343.0,266614.0,0,0
+2021T2,BBVA,Balance General Activo,con fines de cobertura,13202.0,13650.0,16321.0,20344.0,23525.0,0,0
+2021T2,BBVA,Balance General Activo,ajustes de valuacion por cobertura de activos financieros,1102.0,1097.0,2488.0,2129.0,2401.0,0,0
+2021T2,BBVA,Balance General Activo,Total Cartera de Credito Vigente,1236351.0,1229328.0,1211829.0,1253281.0,1281447.0,0,0
+2021T2,BBVA,Balance General Activo,creditos comerciales,689817.0,694679.0,678572.0,717641.0,749098.0,0,0
+2021T2,BBVA,Balance General Activo,actividad empresarial o comercial,499068.0,496702.0,488878.0,534926.0,570758.0,0,0
+2021T2,BBVA,Balance General Activo,entidades financieras,24156.0,24558.0,28079.0,26762.0,28600.0,0,0
+2021T2,BBVA,Balance General Activo,entidades gubernamentales,166593.0,173419.0,161615.0,155953.0,149740.0,0,0
+2021T2,BBVA,Balance General Activo,creditos de consumo,287938.0,281630.0,284348.0,290740.0,289983.0,0,0
+2021T2,BBVA,Balance General Activo,creditos a la vivienda,258596.0,253019.0,248909.0,244900.0,242366.0,0,0
+2021T2,BBVA,Balance General Activo,media y residencial,252158.0,246255.0,241968.0,237505.0,233339.0,0,0
+2021T2,BBVA,Balance General Activo,de interes social,6438.0,6764.0,6941.0,7395.0,9027.0,0,0
+2021T2,BBVA,Balance General Activo,Total Cartera de Credito Vencida,30100.0,32980.0,37484.0,25940.0,25017.0,0,0
+2021T2,BBVA,Balance General Activo,creditos comerciales,12386.0,12131.0,11983.0,9932.0,10243.0,0,0
+2021T2,BBVA,Balance General Activo,actividad empresarial o comercial,12375.0,12131.0,11983.0,9932.0,10243.0,0,0
+2021T2,BBVA,Balance General Activo,entidades gubernamentales,11.0,0.0,0.0,0.0,0.0,0,0
+2021T2,BBVA,Balance General Activo,creditos de consumo,8837.0,11614.0,16147.0,7778.0,8317.0,0,0
+2021T2,BBVA,Balance General Activo,creditos a la vivienda,8877.0,9235.0,9354.0,8230.0,6457.0,0,0
+2021T2,BBVA,Balance General Activo,media y residencial,8448.0,8747.0,8824.0,7729.0,5992.0,0,0
+2021T2,BBVA,Balance General Activo,de interes social,429.0,488.0,530.0,501.0,465.0,0,0
+2021T2,BBVA,Balance General Activo,Total Cartera de Credito,1266451.0,1262308.0,1249313.0,1279221.0,1306464.0,0,0
+2021T2,BBVA,Balance General Activo,estimacion preventiva para riesgos crediticios,-42706.0,-45418.0,-48348.0,-41563.0,-41922.0,0,0
+2021T2,BBVA,Balance General Activo,Total de Cartera de Credito (Neto),1223745.0,1216890.0,1200965.0,1237658.0,1264542.0,0,0
+2021T2,BBVA,Balance General Activo,deudores por primas neto,9062.0,9198.0,7528.0,6840.0,7132.0,0,0
+2021T2,BBVA,Balance General Activo,cuentas por cobrar a reaseguradores y reafianzadores neto,3680.0,1404.0,1316.0,707.0,710.0,0,0
+2021T2,BBVA,Balance General Activo,otras cuentas por cobrar neto,147477.0,119224.0,107286.0,96805.0,106563.0,0,0
+2021T2,BBVA,Balance General Activo,bienes adjudicados neto,1188.0,1241.0,1317.0,1415.0,1334.0,0,0
+2021T2,BBVA,Balance General Activo,inmuebles mobiliario y equipo neto,35233.0,35642.0,36386.0,36272.0,36908.0,0,0
+2021T2,BBVA,Balance General Activo,inversiones permanentes,1293.0,1357.0,1333.0,1446.0,1139.0,0,0
+2021T2,BBVA,Balance General Activo,activos de larga duracion disponibles para la venta,0.0,0.0,107.0,0.0,0.0,0,0
+2021T2,BBVA,Balance General Activo,impuestos y ptu diferidos neto,25184.0,25799.0,24223.0,22828.0,21293.0,0,0
+2021T2,BBVA,Balance General Activo,otros activos,16580.0,17534.0,24054.0,22047.0,23898.0,0,0
+2021T2,BBVA,Balance General Activo,cargos diferidos pagos anticipados e intangibles,16580.0,17534.0,24054.0,22047.0,23898.0,0,0
+2021T2,BBVA,Balance General Activo,Total Activo,2779781.0,2688394.0,2704552.0,2709335.0,2708462.0,0,0
+2021T2,Banorte,Balance General Activo,disponibilidades,106047.0,100081.0,109306.0,116394.0,110852.0,0,0
+2021T2,Banorte,Balance General Activo,cuentas de margen,18353.0,16312.0,18099.0,11012.0,8703.0,0,0
+2021T2,Banorte,Balance General Activo,titulos para negociar,243834.0,223752.0,223390.0,260030.0,252901.0,0,0
+2021T2,Banorte,Balance General Activo,titulos disponibles para la  venta,231114.0,251225.0,244823.0,236274.0,231710.0,0,0
+2021T2,Banorte,Balance General Activo,titulos conservados a vencimiento,169514.0,189366.0,193652.0,207858.0,215382.0,0,0
+2021T2,Banorte,Balance General Activo,Inversiones en Valores,644463.0,664342.0,661865.0,704162.0,699992.0,0,0
+2021T2,Banorte,Balance General Activo,valores no asignados por liquidar,0.0,0.0,0.0,0.0,0.0,0,0
+2021T2,Banorte,Balance General Activo,deudores por reporto saldo deudor,1928.0,3797.0,4036.0,3148.0,2928.0,0,0
+2021T2,Banorte,Balance General Activo,prestam o de valores,0.0,0.0,0.0,0.0,0.0,0,0
+2021T2,Banorte,Balance General Activo,con fines de negociacion,61705.0,53819.0,48233.0,28458.0,24423.0,0,0
+2021T2,Banorte,Balance General Activo,con fines de cobertura,2384.0,1885.0,2043.0,609.0,648.0,0,0
+2021T2,Banorte,Balance General Activo,operaciones con valores y derivadas,0.0,0.0,0.0,0.0,0.0,0,0
+2021T2,Banorte,Balance General Activo,operaciones con derivados,64089.0,55704.0,50277.0,29068.0,25072.0,0,0
+2021T2,Banorte,Balance General Activo,operaciones con valores y derivadas,66017.0,59500.0,54313.0,32215.0,28000.0,0,0
+2021T2,Banorte,Balance General Activo,ajustes de valuacion por cobertura de activos,62.0,58.0,54.0,51.0,47.0,0,0
+2021T2,Banorte,Balance General Activo,creditos comerciales,326535.0,324981.0,325183.0,324529.0,316575.0,0,0
+2021T2,Banorte,Balance General Activo,creditos a entidades financieras,9502.0,9882.0,11172.0,8445.0,8873.0,0,0
+2021T2,Banorte,Balance General Activo,creditos al consumo,115601.0,118321.0,116484.0,116092.0,118322.0,0,0
+2021T2,Banorte,Balance General Activo,creditos a la vivienda,177282.0,182685.0,187736.0,191220.0,196125.0,0,0
+2021T2,Banorte,Balance General Activo,media y residencial,174331.0,179791.0,184980.0,188529.0,193554.0,0,0
+2021T2,Banorte,Balance General Activo,de interes social,5.0,5.0,4.0,4.0,3.0,0,0
+2021T2,Banorte,Balance General Activo,creditos adquiridos al infonavit o fovissste,2946.0,2889.0,2752.0,2687.0,2567.0,0,0
+2021T2,Banorte,Balance General Activo,remodelacion o mejoramiento con garantia,0.0,0.0,0.0,0.0,0.0,0,0
+2021T2,Banorte,Balance General Activo,creditos a entidades gubernamentales,162717.0,162609.0,161563.0,160042.0,154649.0,0,0
+2021T2,Banorte,Balance General Activo,Total Cartera de Credito Vigente,791637.0,798478.0,802138.0,800328.0,794544.0,0,0
+2021T2,Banorte,Balance General Activo,creditos comerciales,2604.0,2212.0,2530.0,3649.0,5498.0,0,0
+2021T2,Banorte,Balance General Activo,creditos a entidades financieras,0.0,0.0,0.0,0.0,0.0,0,0
+2021T2,Banorte,Balance General Activo,creditos al consumo,4229.0,2350.0,4706.0,4694.0,3551.0,0,0
+2021T2,Banorte,Balance General Activo,creditos a la vivienda,2305.0,1811.0,1658.0,2071.0,1966.0,0,0
+2021T2,Banorte,Balance General Activo,media y residencial,2025.0,1612.0,1429.0,1819.0,1709.0,0,0
+2021T2,Banorte,Balance General Activo,de interes social,1.0,1.0,1.0,0.0,0.0,0,0
+2021T2,Banorte,Balance General Activo,creditos adquiridos al infonavit o fovissste,279.0,198.0,228.0,252.0,258.0,0,0
+2021T2,Banorte,Balance General Activo,remodelacion o mejoramiento con garantia,0.0,0.0,0.0,0.0,0.0,0,0
+2021T2,Banorte,Balance General Activo,creditos a entidades gubernamentales,115.0,288.0,38.0,192.0,186.0,0,0
+2021T2,Banorte,Balance General Activo,Total Cartera de Credito Vencida,9254.0,6660.0,8931.0,10607.0,11202.0,0,0
+2021T2,Banorte,Balance General Activo,Total Cartera de Credito,800891.0,805138.0,811070.0,810935.0,805746.0,0,0
+2021T2,Banorte,Balance General Activo,reservas prev riesgos crediticios,18555.0,17666.0,20004.0,19670.0,18175.0,0,0
+2021T2,Banorte,Balance General Activo,cartera de credito neto,782337.0,787473.0,791066.0,791265.0,787571.0,0,0
+2021T2,Banorte,Balance General Activo,derechos de cobro adquiridos,1438.0,1341.0,1617.0,1529.0,1421.0,0,0
+2021T2,Banorte,Balance General Activo,Total de Cartera de Credito (Neto),783774.0,788814.0,792682.0,792794.0,788992.0,0,0
+2021T2,Banorte,Balance General Activo,cuentas por cobrar de instituciones de seguros y,2432.0,2591.0,2756.0,3157.0,2806.0,0,0
+2021T2,Banorte,Balance General Activo,deudores por prima neto,9196.0,7032.0,4353.0,11144.0,8638.0,0,0
+2021T2,Banorte,Balance General Activo,ctas por cobrar a reaseguradores y reafianzadores,8872.0,7924.0,7269.0,7521.0,7707.0,0,0
+2021T2,Banorte,Balance General Activo,beneficios por recibir en operaciones de,156.0,151.0,110.0,2.0,0.0,0,0
+2021T2,Banorte,Balance General Activo,otras cuentas por cobrar neto,50981.0,55704.0,42481.0,37992.0,49790.0,0,0
+2021T2,Banorte,Balance General Activo,inventario de mercancias,1299.0,1053.0,945.0,832.0,611.0,0,0
+2021T2,Banorte,Balance General Activo,bienes adjudicados neto,1075.0,976.0,1553.0,1552.0,1953.0,0,0
+2021T2,Banorte,Balance General Activo,propiedades mobiliario y equipo neto,31151.0,31682.0,32627.0,32806.0,20502.0,0,0
+2021T2,Banorte,Balance General Activo,inversiones permanentes,13894.0,14368.0,14804.0,13511.0,14155.0,0,0
+2021T2,Banorte,Balance General Activo,activos de larga duracion disponibles para la venta,0.0,0.0,0.0,0.0,0.0,0,0
+2021T2,Banorte,Balance General Activo,impuestos diferidos neto,201.0,0.0,0.0,-0.0,0.0,0,0
+2021T2,Banorte,Balance General Activo,cargos diferidos pagos anticipados e intangibles,40257.0,39203.0,39439.0,39790.0,54416.0,0,0
+2021T2,Banorte,Balance General Activo,otros activos a corto y largo plazo,5351.0,5515.0,5247.0,5272.0,5198.0,0,0
+2021T2,Banorte,Balance General Activo,otros activos,164866.0,166199.0,151585.0,153579.0,165777.0,0,0
+2021T2,Banorte,Balance General Activo,Total Activo,1783581.0,1795306.0,1787904.0,1810207.0,1802363.0,0,0
+2021T2,Santander,Balance General Activo,disponibilidades,113843.0,97483.0,94802.0,83502.0,85658.0,0,0
+2021T2,Santander,Balance General Activo,cuentas de margen,5209.0,4017.0,4122.0,3876.0,4638.0,0,0
+2021T2,Santander,Balance General Activo,Inversiones en Valores,458685.0,558857.0,575415.0,552369.0,540938.0,0,0
+2021T2,Santander,Balance General Activo,titulos para negociar,122957.0,204194.0,208089.0,173679.0,175739.0,0,0
+2021T2,Santander,Balance General Activo,titulos disponibles para la venta,324353.0,343332.0,356039.0,367422.0,353978.0,0,0
+2021T2,Santander,Balance General Activo,titulos conservados a vencimiento,11375.0,11331.0,11287.0,11268.0,11221.0,0,0
+2021T2,Santander,Balance General Activo,deudores por reporto,39505.0,47713.0,62294.0,21813.0,36848.0,0,0
+2021T2,Santander,Balance General Activo,derivados,200890.0,228247.0,304687.0,324984.0,385504.0,0,0
+2021T2,Santander,Balance General Activo,con fines de negociacion,193024.0,218097.0,296381.0,315071.0,376412.0,0,0
+2021T2,Santander,Balance General Activo,con fines de cobertura,7866.0,10150.0,8306.0,9913.0,9092.0,0,0
+2021T2,Santander,Balance General Activo,ajustes de valuacion por cobertura de activos financieros,123.0,167.0,281.0,371.0,421.0,0,0
+2021T2,Santander,Balance General Activo,creditos comerciales,405407.0,416942.0,407941.0,451752.0,472748.0,0,0
+2021T2,Santander,Balance General Activo,actividad empresarial o comercial,313657.0,318773.0,324825.0,360463.0,384891.0,0,0
+2021T2,Santander,Balance General Activo,entidades financieras,9943.0,10549.0,10082.0,11020.0,13083.0,0,0
+2021T2,Santander,Balance General Activo,entidades gubernamentales,81807.0,87620.0,73034.0,80269.0,74774.0,0,0
+2021T2,Santander,Balance General Activo,creditos de consumo,110756.0,107758.0,108173.0,110421.0,108292.0,0,0
+2021T2,Santander,Balance General Activo,creditos a la vivienda,173759.0,168529.0,165015.0,157765.0,151335.0,0,0
+2021T2,Santander,Balance General Activo,media y residencial,163425.0,157642.0,153753.0,145627.0,138919.0,0,0
+2021T2,Santander,Balance General Activo,de interes social,5.0,6.0,6.0,8.0,24.0,0,0
+2021T2,Santander,Balance General Activo,creditos adquiridos al infonavit o el fovissste,10329.0,10881.0,11256.0,12130.0,12392.0,0,0
+2021T2,Santander,Balance General Activo,Total Cartera de Credito Vigente,689922.0,693229.0,681129.0,719938.0,732375.0,0,0
+2021T2,Santander,Balance General Activo,creditos comerciales,6673.0,6503.0,6245.0,5783.0,6700.0,0,0
+2021T2,Santander,Balance General Activo,actividad empresarial o comercial,6673.0,6503.0,6245.0,5781.0,6698.0,0,0
+2021T2,Santander,Balance General Activo,entidades financieras 2,0.0,0.0,0.0,2.0,2.0,0,0
+2021T2,Santander,Balance General Activo,creditos de consumo,4835.0,5536.0,7539.0,2637.0,4700.0,0,0
+2021T2,Santander,Balance General Activo,creditos a la vivienda,8893.0,8721.0,7856.0,6972.0,7444.0,0,0
+2021T2,Santander,Balance General Activo,media y residencial,7119.0,6805.0,6079.0,5516.0,5864.0,0,0
+2021T2,Santander,Balance General Activo,de interes social,8.0,9.0,10.0,18.0,5.0,0,0
+2021T2,Santander,Balance General Activo,creditos adquiridos al infonavit o el fovissste,1766.0,1907.0,1767.0,1438.0,1575.0,0,0
+2021T2,Santander,Balance General Activo,Total Cartera de Credito Vencida,20401.0,20760.0,21640.0,15392.0,18844.0,0,0
+2021T2,Santander,Balance General Activo,Total Cartera de Credito,710323.0,713989.0,702769.0,735330.0,751219.0,0,0
+2021T2,Santander,Balance General Activo,estimacion preventiva para riesgos crediticios,24152.0,24937.0,25291.0,25850.0,26157.0,0,0
+2021T2,Santander,Balance General Activo,Total de Cartera de Credito (Neto),686171.0,689052.0,677478.0,709480.0,725062.0,0,0
+2021T2,Santander,Balance General Activo,beneficios por recibir en operaciones de bursatilizacion,0.0,151.0,160.0,158.0,155.0,0,0
+2021T2,Santander,Balance General Activo,otras cuentas por cobrar neto,84993.0,78686.0,93628.0,119989.0,107968.0,0,0
+2021T2,Santander,Balance General Activo,bienes adjudicados neto,106.0,92.0,135.0,119.0,136.0,0,0
+2021T2,Santander,Balance General Activo,propiedades mobiliario y equipo neto,11868.0,12045.0,12376.0,10746.0,10185.0,0,0
+2021T2,Santander,Balance General Activo,inversiones permanentes,2182.0,1168.0,1091.0,1012.0,913.0,0,0
+2021T2,Santander,Balance General Activo,impuestos y ptu diferidos neto,19432.0,19675.0,19225.0,20766.0,21560.0,0,0
+2021T2,Santander,Balance General Activo,cargos diferidos pagos anticipados e intangibles,11333.0,10903.0,10477.0,9459.0,9324.0,0,0
+2021T2,Santander,Balance General Activo,otros activos,44.0,42.0,42.0,40.0,40.0,0,0
+2021T2,Santander,Balance General Activo,Total Activo,1634384.0,1748298.0,1856213.0,1858684.0,1929350.0,0,0

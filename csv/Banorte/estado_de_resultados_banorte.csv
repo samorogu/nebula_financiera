@@ -1,0 +1,68 @@
+trimester_date,bank_name,table_name,short_descripction,T_0_feature_value,T_1_feature_value,T_2_feature_value,T_3_feature_value,T_4_feature_value
+2021T2,Banorte,Estado de resultados,Ingresos por Intereses,"31,016","32,142","30,296","32,987","32,350"
+2021T2,Banorte,Estado de resultados,Gastos por Intereses,"9,260","9,405","9,324","10,149","13,032"
+2021T2,Banorte,Estado de resultados,Comisiones cobradas,362,352,380,354,346
+2021T2,Banorte,Estado de resultados,Comisiones Pagadas,313,314,314,281,270
+2021T2,Banorte,Estado de resultados,Ingresos de Intereses Netos de intereses y ,"21,806","22,775","21,038","22,911","19,395"
+2021T2,Banorte,Estado de resultados,Ingresos por Primas (Neto),"8,602","15,340","9,192","7,385","8,118"
+2021T2,Banorte,Estado de resultados,Incremento neto de reservas técnicas,"4,983","11,016","4,368","4,262","1,216"
+2021T2,Banorte,Estado de resultados,"Siniestros, Reclamaciones y Otras Obligaciones","5,777","7,097","6,281","5,433","5,613"
+2021T2,Banorte,Estado de resultados,Ingresos de Intereses Netos antes de Estim .,"19,649","20,002","19,580","20,601","20,683"
+2021T2,Banorte,Estado de resultados,Provisiones Prev. para Riesgos crediticios,"2,765","3,215","5,993","3,138","8,456"
+2021T2,Banorte,Estado de resultados,Ingresos de Intereses Netos Ajustado por,"16,883","16,788","13,587","17,463","12,227"
+2021T2,Banorte,Estado de resultados,Transferencia de fondos,530,473,513,489,476
+2021T2,Banorte,Estado de resultados,Manejo de cuenta,491,494,529,548,508
+2021T2,Banorte,Estado de resultados,Servicios de Banca Electrónica,"3,212","2,916","3,033","2,379","2,027"
+2021T2,Banorte,Estado de resultados,Por créditos comerciales y  vivienda,278,296,366,129,394
+2021T2,Banorte,Estado de resultados,Por créditos de consumo y tarjeta de crédito,"1,263","1,164","1,292","1,148","1,049"
+2021T2,Banorte,Estado de resultados,Fiduciario,177,106,153,113,102
+2021T2,Banorte,Estado de resultados,Ingresos por Portafolios Inmobiliarios,23,10,19,6,11
+2021T2,Banorte,Estado de resultados,Fondos de Inversión,503,484,504,501,486
+2021T2,Banorte,Estado de resultados,Asesoría e Intermediación financiera,166,188,142,128,126
+2021T2,Banorte,Estado de resultados,Otras comisiones Cobradas,42,250,223,268,226
+2021T2,Banorte,Estado de resultados,Com isiones por Servicios Cobrados,"6,685","6,380","6,775","5,708","5,406"
+2021T2,Banorte,Estado de resultados,Cuotas de Intercambio,"1,911","1,625","1,684","1,228","1,018"
+2021T2,Banorte,Estado de resultados,Comisiones de Seguros,236,339,227,317,353
+2021T2,Banorte,Estado de resultados,Otras Comisiones Pagadas,"1,248","1,202","1,264","1,066",966
+2021T2,Banorte,Estado de resultados,Com isiones por Servicios Pagados,"3,396","3,166","3,176","2,611","2,337"
+2021T2,Banorte,Estado de resultados,Com isiones por Servicios Netas,"3,289","3,214","3,599","3,096","3,069"
+2021T2,Banorte,Estado de resultados,Divisas y Metales,(453),575,"(1,483)",(309),(501)
+2021T2,Banorte,Estado de resultados,Derivados,164,111,309,531,"1,139"
+2021T2,Banorte,Estado de resultados,Títulos,122,(579),92,80,(111)
+2021T2,Banorte,Estado de resultados,Valuación,(167),107,"(1,083)",302,527
+2021T2,Banorte,Estado de resultados,Divisas y Metales,838,764,"1,930",464,774
+2021T2,Banorte,Estado de resultados,Derivados,(10),5,(169),2,(323)
+2021T2,Banorte,Estado de resultados,Títulos,180,87,180,359,724
+2021T2,Banorte,Estado de resultados,Com pra-venta,"1,008",857,"1,941",826,"1,175"
+2021T2,Banorte,Estado de resultados,Ingresos por Interm ediación,840,964,858,"1,128","1,703"
+2021T2,Banorte,Estado de resultados,Recuperación de cartera de crédito,85,99,69,90,63
+2021T2,Banorte,Estado de resultados,Portafolios de crédito,0,0,0,0,0
+2021T2,Banorte,Estado de resultados,Resultado por bienes adjudicados,132,87,129,165,132
+2021T2,Banorte,Estado de resultados,Liberación de Provisiones,0,0,0,0,0
+2021T2,Banorte,Estado de resultados,Deterioro de Activos,0,0,0,0,0
+2021T2,Banorte,Estado de resultados,Ingresos por Arrendamiento,57,64,62,11,77
+2021T2,Banorte,Estado de resultados,Provenientes de Seguros,195,275,317,198,322
+2021T2,Banorte,Estado de resultados,Resultado por Valuación en Op. de Bursatilización,0,0,(36),15,6
+2021T2,Banorte,Estado de resultados,Otros (gastos),141,298,319,178,541
+2021T2,Banorte,Estado de resultados,Total Otros Ingresos (Egresos) de la,609,822,859,656,"1,140"
+2021T2,Banorte,Estado de resultados,Total de Ingresos No Financieros,"4,739","5,000","5,315","4,880","5,911"
+2021T2,Banorte,Estado de resultados,Ingreso Total de Operación,"21,622","21,788","18,903","22,343","18,139"
+2021T2,Banorte,Estado de resultados,Gasto de Personal,"4,273","4,006","4,660","4,037","3,891"
+2021T2,Banorte,Estado de resultados,Participación de los Trabajadores en las Utilidades,139,139,136,133,133
+2021T2,Banorte,Estado de resultados,Honorarios Pagados,808,806,962,861,801
+2021T2,Banorte,Estado de resultados,Gastos de Administración y Promoción,"1,914","2,223","2,141","2,075","2,032"
+2021T2,Banorte,Estado de resultados,"Rentas, Depreciaciones y Amortizaciones","2,240","2,243","2,136","2,074","2,047"
+2021T2,Banorte,Estado de resultados,Otros impuestos y Gastos No deducibles,589,553,648,496,483
+2021T2,Banorte,Estado de resultados,Aportación al Fobaproa o al IPAB,889,912,931,951,919
+2021T2,Banorte,Estado de resultados,Total Gasto No Financiero,"10,851","10,883","11,612","10,627","10,307"
+2021T2,Banorte,Estado de resultados,Resultado de la Operación,"10,771","10,905","7,290","11,717","7,832"
+2021T2,Banorte,Estado de resultados,Participación en subsidiarias y asociadas no,675,429,509,492,648
+2021T2,Banorte,Estado de resultados,Resultados Antes de Im puestos a la Utilidad,"11,446","11,334","7,800","12,208","8,480"
+2021T2,Banorte,Estado de resultados,Impuestos a la utilidad causados,"1,738","1,909","2,268","2,477",947
+2021T2,Banorte,Estado de resultados,Impuesto al Activo,0,0,0,0,0
+2021T2,Banorte,Estado de resultados,Impuestos a la utilidad diferidos,"1,017",769,(511),702,939
+2021T2,Banorte,Estado de resultados,Im puestos,"2,756","2,678","1,757","3,178","1,886"
+2021T2,Banorte,Estado de resultados,Resultados antes de operaciones,"8,690","8,656","6,043","9,030","6,593"
+2021T2,Banorte,Estado de resultados,Operaciones discontinuadas,0,0,0,0,0
+2021T2,Banorte,Estado de resultados,Participación no controladora,(122),(112),(77),(124),(75)
+2021T2,Banorte,Estado de resultados,Utilidad Neta,"8,568","8,544","5,966","8,906","6,518"

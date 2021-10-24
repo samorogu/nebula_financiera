@@ -1,0 +1,56 @@
+trimester_date,bank_name,table_name,short_descripction,T_4_feature_value,T_3_feature_value,T_2_feature_value,T_1_feature_value,T_0_feature_value
+2021T2,Banorte,Balance General Activos,Disponibilidades,"106,047","100,081","109,306","116,394","110,852"
+2021T2,Banorte,Balance General Activos,Cuentas de Margen,"18,353","16,312","18,099","11,012","8,703"
+2021T2,Banorte,Balance General Activos,Títulos para negociar,"243,834","223,752","223,390","260,030","252,901"
+2021T2,Banorte,Balance General Activos,Títulos disponibles para la  venta,"231,114","251,225","244,823","236,274","231,710"
+2021T2,Banorte,Balance General Activos,Títulos conservados a vencimiento,"169,514","189,366","193,652","207,858","215,382"
+2021T2,Banorte,Balance General Activos,Inversiones en Valores,"644,463","664,342","661,865","704,162","699,992"
+2021T2,Banorte,Balance General Activos,Valores no asignados por liquidar,0,0,0,0,0
+2021T2,Banorte,Balance General Activos,Deudores por reporto (saldo deudor),"1,928","3,797","4,036","3,148","2,928"
+2021T2,Banorte,Balance General Activos,Préstam o de Valores,0,0,0,0,0
+2021T2,Banorte,Balance General Activos,Con fines de negociación,"61,705","53,819","48,233","28,458","24,423"
+2021T2,Banorte,Balance General Activos,Con fines de cobertura,"2,384","1,885","2,043",609,648
+2021T2,Banorte,Balance General Activos,Operaciones con valores y derivadas,0,0,0,0,0
+2021T2,Banorte,Balance General Activos,Operaciones con Derivados,"64,089","55,704","50,277","29,068","25,072"
+2021T2,Banorte,Balance General Activos,Operaciones con Valores y Derivadas,"66,017","59,500","54,313","32,215","28,000"
+2021T2,Banorte,Balance General Activos,Ajustes de valuación por cobertura de activos,62,58,54,51,47
+2021T2,Banorte,Balance General Activos,Créditos Comerciales,"326,535","324,981","325,183","324,529","316,575"
+2021T2,Banorte,Balance General Activos,Créditos a Entidades Financieras,"9,502","9,882","11,172","8,445","8,873"
+2021T2,Banorte,Balance General Activos,Créditos al Consumo,"115,601","118,321","116,484","116,092","118,322"
+2021T2,Banorte,Balance General Activos,Créditos a la Vivienda,"177,282","182,685","187,736","191,220","196,125"
+2021T2,Banorte,Balance General Activos,Media y Residencial,"174,331","179,791","184,980","188,529","193,554"
+2021T2,Banorte,Balance General Activos,De interés social,5,5,4,4,3
+2021T2,Banorte,Balance General Activos,Créditos adquiridos al INFONAVIT o FOVISSSTE,"2,946","2,889","2,752","2,687","2,567"
+2021T2,Banorte,Balance General Activos,Remodelación o mejoramiento con garantía,0,0,0,0,0
+2021T2,Banorte,Balance General Activos,Créditos a Entidades Gubernamentales,"162,717","162,609","161,563","160,042","154,649"
+2021T2,Banorte,Balance General Activos,Cartera de Crédito Vigente,"791,637","798,478","802,138","800,328","794,544"
+2021T2,Banorte,Balance General Activos,Créditos Comerciales,"2,604","2,212","2,530","3,649","5,498"
+2021T2,Banorte,Balance General Activos,Créditos a Entidades Financieras,0,0,0,0,0
+2021T2,Banorte,Balance General Activos,Créditos al Consumo,"4,229","2,350","4,706","4,694","3,551"
+2021T2,Banorte,Balance General Activos,Créditos a la Vivienda,"2,305","1,811","1,658","2,071","1,966"
+2021T2,Banorte,Balance General Activos,Media y Residencial,"2,025","1,612","1,429","1,819","1,709"
+2021T2,Banorte,Balance General Activos,De interés social,1,1,1,0,0
+2021T2,Banorte,Balance General Activos,Créditos adquiridos al INFONAVIT o FOVISSSTE,279,198,228,252,258
+2021T2,Banorte,Balance General Activos,Remodelación o mejoramiento con garantía,0,0,0,0,0
+2021T2,Banorte,Balance General Activos,Créditos a Entidades Gubernamentales,115,288,38,192,186
+2021T2,Banorte,Balance General Activos,Cartera de Crédito Vencida,"9,254","6,660","8,931","10,607","11,202"
+2021T2,Banorte,Balance General Activos,Cartera de Crédito Total,"800,891","805,138","811,070","810,935","805,746"
+2021T2,Banorte,Balance General Activos,Reservas Prev. Riesgos Crediticios,"18,555","17,666","20,004","19,670","18,175"
+2021T2,Banorte,Balance General Activos,Cartera de Crédito Neto,"782,337","787,473","791,066","791,265","787,571"
+2021T2,Banorte,Balance General Activos,Derechos de cobro adquiridos,"1,438","1,341","1,617","1,529","1,421"
+2021T2,Banorte,Balance General Activos,Total de cartera de crédito (neto),"783,774","788,814","792,682","792,794","788,992"
+2021T2,Banorte,Balance General Activos,Cuentas por cobrar de Instituciones de Seguros y,"2,432","2,591","2,756","3,157","2,806"
+2021T2,Banorte,Balance General Activos,Deudores por Prima (Neto),"9,196","7,032","4,353","11,144","8,638"
+2021T2,Banorte,Balance General Activos,Ctas por cobrar a reaseguradores y reafianzadores,"8,872","7,924","7,269","7,521","7,707"
+2021T2,Banorte,Balance General Activos,Beneficios por recibir en operaciones de,156,151,110,2,0
+2021T2,Banorte,Balance General Activos,"Otras Cuentas por cobrar, neto","50,981","55,704","42,481","37,992","49,790"
+2021T2,Banorte,Balance General Activos,Inventario de Mercancías,"1,299","1,053",945,832,611
+2021T2,Banorte,Balance General Activos,Bienes Adjudicados (Neto),"1,075",976,"1,553","1,552","1,953"
+2021T2,Banorte,Balance General Activos,"Propiedades, mobiliario y equipo, neto","31,151","31,682","32,627","32,806","20,502"
+2021T2,Banorte,Balance General Activos,Inversiones permanentes,"13,894","14,368","14,804","13,511","14,155"
+2021T2,Banorte,Balance General Activos,Activos de larga duración disponibles para la venta,0,0,0,0,0
+2021T2,Banorte,Balance General Activos,"Impuestos diferidos, neto",201,0,0,(0),0
+2021T2,Banorte,Balance General Activos,"Cargos diferidos, pagos anticipados e intangibles","40,257","39,203","39,439","39,790","54,416"
+2021T2,Banorte,Balance General Activos,Otros activos a corto y largo plazo,"5,351","5,515","5,247","5,272","5,198"
+2021T2,Banorte,Balance General Activos,Otros activos,"164,866","166,199","151,585","153,579","165,777"
+2021T2,Banorte,Balance General Activos,TOTAL ACTIVOS,"1,783,581","1,795,306","1,787,904","1,810,207","1,802,363"

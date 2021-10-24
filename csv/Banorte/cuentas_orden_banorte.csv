@@ -1,0 +1,57 @@
+trimester_date,bank_name,table_name,short_descripction,T_0_feature_value,T_1_feature_value,T_2_feature_value,T_3_feature_value,T_4_feature_value
+2021T2,Banorte,Balance General Pasivos,Bancos de clientes,18,49,62,21,24
+2021T2,Banorte,Balance General Pasivos,Dividendos por cobrar de clientes,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Intereses por cobrar de clientes,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Liquidación de operaciones de clientes,"12,022",47,(30),123,(270)
+2021T2,Banorte,Balance General Pasivos,Premios de clientes,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Liquidación con divisas de clientes,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Cuentas margen operaciones con futuros,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Otras cuentas corrientes,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Clientes Cuentas Corrientes,"12,039",97,32,145,(245)
+2021T2,Banorte,Balance General Pasivos,Valores de clientes recibidos en custodia,"740,294","720,880","669,495","670,163","641,824"
+2021T2,Banorte,Balance General Pasivos,Valores y documentos recibidos en garantía,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Valores de clientes en el extranjero,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Valores de Clientes,"740,294","720,880","669,495","670,163","641,824"
+2021T2,Banorte,Balance General Pasivos,Operaciones de reporto de clientes,"261,799","277,305","238,032","240,237","163,653"
+2021T2,Banorte,Balance General Pasivos,Operac. de préstamo de valores de clientes,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Colaterales recibidos en garantía por cuentas de,"261,821","277,318","238,040","240,237","163,653"
+2021T2,Banorte,Balance General Pasivos,Compra de futs y cont. Adelan. (monto nacional),"9,345",0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Venta de futs y cont. Adelan. (monto nacional),0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Operac. de compra de opciones de clientes,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Operac. de venta de opciones de clientes,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Operac. de Compra de paquetes de instrumentos,"9,345",0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Operac. de Venta de paquetes de instrumentos,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Fideicomisos administrados,129,187,204,"1,066","1,054"
+2021T2,Banorte,Balance General Pasivos,Operaciones por Cuenta de Clientes,"533,094","554,810","476,276","481,539","328,360"
+2021T2,Banorte,Balance General Pasivos,Op. de Bca de Inv Cta de Terceros (Neto),"127,426","127,770","97,374","100,948","88,149"
+2021T2,Banorte,Balance General Pasivos,TOTALES POR CUENTA DE TERCEROS,"1,412,853","1,403,556","1,243,176","1,252,794","1,058,087"
+2021T2,Banorte,Balance General Pasivos,Avales otorgados,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Compromisos Crediticios,"282,098","276,976","292,701","292,420","293,470"
+2021T2,Banorte,Balance General Pasivos,Fideicomisos,"319,065","309,954","308,516","308,883","319,659"
+2021T2,Banorte,Balance General Pasivos,Mandatos,"6,860","7,024","7,472","7,786","7,645"
+2021T2,Banorte,Balance General Pasivos,Bienes en Fideicom iso o Mandato,"325,925","316,978","315,988","316,669","327,304"
+2021T2,Banorte,Balance General Pasivos,Bienes en custodia o administración,"635,708","632,974","633,424","677,620","669,104"
+2021T2,Banorte,Balance General Pasivos,Colaterales recibidos por la entidad,"398,517","384,942","282,054","289,443","240,920"
+2021T2,Banorte,Balance General Pasivos,Colaterales recibidos o vendidos o entregados por la,"548,764","543,789","421,090","432,443","307,649"
+2021T2,Banorte,Balance General Pasivos,Giros en tránsito,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Depósitos de bienes,"2,150","2,482","3,325","2,101","2,867"
+2021T2,Banorte,Balance General Pasivos,Cartas de Créd. a la Soc. entreg en garantía,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Valores a la Sociedad entreg. en custodia,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Valores Gubern. de la sociedad en custodia,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Valores de la sociedad entreg. en garantía,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Valores en el extranjero de la sociedad,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Liquid. con divisas de Soc. en el extranjero,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Adeudo al fondo de contingencias,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Activos y Pasivos Contingentes,155,122,167,109,79
+2021T2,Banorte,Balance General Pasivos,Int.dev. no cob. deriv. de cart. de crédito vencida,242,286,178,180,289
+2021T2,Banorte,Balance General Pasivos,Inver. fondos del sist. de ahorro para retiro,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Integración de la cartera crediticia,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Otras cuentas de registro,"323,288","324,592","295,069","304,055","289,983"
+2021T2,Banorte,Balance General Pasivos,Operaciones por Cuenta Propia,"2,516,847","2,483,140","2,243,996","2,315,039","2,131,665"
+2021T2,Banorte,Balance General Pasivos,Títulos a recibir por reporto,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,(Menos) Acreedores por reporto,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Títulos a recibir por reporto (Neto),0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Deudores por reporto,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,(Menos) Títulos a entregar por reporto,0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,Títulos a entregar por reporto (Neto),0,0,0,0,0
+2021T2,Banorte,Balance General Pasivos,TOTALES POR CUENTA PROPIA,"2,516,847","2,483,140","2,243,996","2,315,039","2,131,665"
